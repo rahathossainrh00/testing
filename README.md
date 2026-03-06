@@ -2,9 +2,6 @@
 
 A web-based GitHub Issues Tracker application built with HTML, Tailwind CSS, DaisyUI, and Vanilla JavaScript.
 
-## Live Demo
-
-[Live Site Link](#)
 
 ## Features
 
